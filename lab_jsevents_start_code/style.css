@@ -1,0 +1,15 @@
+body{
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+input {
+    padding: 5px;
+    max-width: 100px;
+    margin: 5px;
+}
+
+<!-- Improvements would include space between list items; button aesthetics; padding around date button; space between date button and new item-->
