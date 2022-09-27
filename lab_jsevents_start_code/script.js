@@ -1,5 +1,6 @@
 const enterBtn = document.getElementById("enter");
 const list = document.querySelector("#list")
+const completed = document.querySelector("#completed");
 
 function createItem(){
     const listItem1 = document.createElement("li");
@@ -23,7 +24,9 @@ dateBtn.addEventListener("click", ()=>{
     dateBtn.innerText = Date();
 })
 
-function completed ()
+
+
+
 
 
 
